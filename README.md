@@ -72,7 +72,6 @@
 </a> 
 <a href="https://codeforces.com/profile/Treffer" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces--blue" />
-</a>
 </a> 
 <a href="https://leetcode.com/u/adityatrivedii/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
