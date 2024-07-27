@@ -68,12 +68,12 @@
 <img src="https://img.shields.io/badge/Instagram--red" />
 </a>
 <a href="https://www.codechef.com/users/trefferx" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces--darkgreen" ;></img></a>
+<img src="https://img.shields.io/badge/Codechef--darkgreen" ;></img></a>
 </a> 
 <a href="https://codeforces.com/profile/Treffer" target="_blank">
-<img src="https://img.shields.io/badge/Codechef--blue" />
+<img src="https://img.shields.io/badge/Codeforces--blue" />
 </a>
 </a> 
-<a href=":https://leetcode.com/u/adityatrivedii/" target="_blank">
+<a href=":https://leetcode.com/adityatrivedii/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
