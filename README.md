@@ -70,7 +70,7 @@
 <a href="https://www.codechef.com/users/trefferx" target="_blank">
 <img src="https://img.shields.io/badge/Codechef--darkgreen" ;></img></a>
 </a> 
-<a href="https://codeforces.com/profile/Treffer" target="_blank">
+<a href="https://codeforces.com/profile/senshiiii" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces--blue" />
 </a> 
 <a href="https://leetcode.com/u/adityatrivedii/" target="_blank">
